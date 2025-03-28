@@ -41,7 +41,7 @@ const Hero = () => {
             Get in Touch
           </button>
 
-         <Link to="https://drive.google.com/file/d/127XNGQsMpFMff7sRZYBJ-jbuOHfTNw70/view?usp=sharing" className="px-8 py-3 rounded-lg bg-primary text-white hover:bg-blue-800 transition-colors font-medium " target="_blank"> Here is My Resume</Link>
+         <Link to="https://drive.google.com/file/d/1vs0sLE48LNYCKuar9ZnPb6xdbxA9a52w/view?usp=sharing" className="px-8 py-3 rounded-lg bg-primary text-white hover:bg-blue-800 transition-colors font-medium " target="_blank"> Here is My Resume</Link>
         </div>
 
         <div className="absolute bottom-12 left-1/2 transform -translate-x-1/2 opacity-0 animate-fade-in animation-delay-700">
