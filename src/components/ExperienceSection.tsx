@@ -13,9 +13,9 @@ const experiences = [
   },
    {
     title: 'Kota Super Thermal Power Station',
-    company: '',
+    company: 'Energy Generation and Management',
     period: 'May 2024 - June 2024',
-    location: '',
+    location: 'Kota, Rajasthan',
     description: 'Visiting or studying a power station like KSTPS (Kota Super Thermal Power Station) offers valuable real-world insights into electrical and mechanical engineering, energy management, and environmental sciences.',
     technologies: [  'Energy Management', 'Environmental Sciences']
   },
