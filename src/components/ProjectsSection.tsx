@@ -34,8 +34,8 @@ const projects = [
     title: 'Portfolio Website',
     description: 'Responsive portfolio website with dark/light mode and smooth animations.',
     technologies: ['React', 'Tailwind CSS', 'Framer Motion', 'Vercel'],
-    liveLink: 'https://example.com',
-    githubLink: 'https://github.com/example',
+    liveLink: 'https://portfolio-six-self-99.vercel.app/',
+    githubLink: 'https://github.com/Its-bhanu/Portfolio',
     image: 'https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio-1170x658.jpg',
     featured: false
   },
