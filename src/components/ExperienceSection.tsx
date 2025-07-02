@@ -6,10 +6,18 @@ const experiences = [
   {
     title: 'Dmatics Technology',
     company: 'Frontend Development',
-    period: 'May 2022 - June 2022',
+    period: 'May 2024 - June 2024',
     location: 'Remote',
     description: 'Leading development of scalable web applications using React, Node.js, and cloud technologies. Mentoring junior developers and architecting robust solutions.',
     technologies: ['Html', 'Css', 'Js', 'React Js']
+  },
+   {
+    title: 'Kota Super Thermal Power Station',
+    company: '',
+    period: 'May 2024 - June 2024',
+    location: '',
+    description: 'Visiting or studying a power station like KSTPS (Kota Super Thermal Power Station) offers valuable real-world insights into electrical and mechanical engineering, energy management, and environmental sciences.',
+    technologies: [  'Energy Management', 'Environmental Sciences']
   },
   {
     title: 'HackTech Fest',
