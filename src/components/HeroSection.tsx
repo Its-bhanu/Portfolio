@@ -74,7 +74,7 @@ export function HeroSection() {
           </Button>
 
           <a
-            href="https://drive.google.com/file/d/1Xm__hpqtAmrs9p2Gf0AHCewd1NmWr1MK/view?usp=sharing"
+            href="https://drive.google.com/file/d/1_FtzysdjtxmBje6rs9ALSl8SMUsHY2GZ/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
           >
