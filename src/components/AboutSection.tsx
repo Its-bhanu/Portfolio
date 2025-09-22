@@ -80,7 +80,7 @@ export function AboutSection() {
                   Contact Me
                 </Button></a>
                <a
-               href='https://drive.google.com/file/d/1_FtzysdjtxmBje6rs9ALSl8SMUsHY2GZ/view?usp=drive_link'
+               href='https://drive.google.com/file/d/12IaRUHqMCtS2xWO902HkUIXG7_vEj02U/view?usp=sharing'
                download
                target='_blank'
       
