@@ -4,12 +4,12 @@ import { Button } from '@/components/ui/button';
 
 const projects = [
   {
-    title: 'A Online Pandit Booking Web App',
+    title: 'A Online Ceremony/Pooja Booking Web App',
     description: 'A full-featured Pandit Book  platform for any Pooja and Ceremony Booking with user authentication, payment processing, and user , Pandit dashboard.',
     technologies: ['React', 'Express.js', 'MongoDb', 'Razorpay', 'Nodemailer', 'JWT'],
     liveLink: 'https://book-pandit.vercel.app/',
     githubLink: 'https://github.com/Its-bhanu/bookPandit',
-    image: 'https://devdarshanindia.com/web/img/core-img/online-pandit-04.jpg',
+    image: 'https://res.cloudinary.com/dhzscmpbt/image/upload/v1758546062/ChatGPT_Image_Sep_22_2025_06_30_39_PM_vncnjs.png',
     featured: true
   },
   {
