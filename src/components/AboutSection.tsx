@@ -59,7 +59,7 @@ export function AboutSection() {
           <div className="text-center lg:text-left">
             <div className="w-80 h-80 mx-auto lg:mx-0 rounded-full overflow-hidden border-4 border-gradient-to-r from-blue-500 to-purple-500 mb-8">
               <img 
-                src="https://media.licdn.com/dms/image/v2/D4E03AQHTBqf3Y-lTzA/profile-displayphoto-shrink_800_800/B4EZaj_yt7HkAc-/0/1746508132938?e=1756944000&v=beta&t=AgfAqGoowJVmT5Liw7pKIph63SjC_ChxaIoEDMX13oE" 
+                src="https://res.cloudinary.com/dhzscmpbt/image/upload/v1758545421/IMG_20250504_184200_yztyzh.jpg" 
                 alt="Bhanu Sharma"
                 className="w-full h-full object-cover hover:scale-150 "
               />
