@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 
 const projects = [
   {
-    title: 'A Online Ceremony/Pooja Booking Web App',
+    title: 'A Online Pandit Booking Web App',
     description: 'A full-featured Pandit Book  platform for any Pooja and Ceremony Booking with user authentication, payment processing, and user , Pandit dashboard.',
     technologies: ['React', 'Express.js', 'MongoDb', 'Razorpay', 'Nodemailer', 'JWT'],
     liveLink: 'https://book-pandit.vercel.app/',
@@ -22,12 +22,22 @@ const projects = [
     featured: true
   },
   {
+  title: 'Pdf Based QNA System',
+  description: 'A web application that allows users to upload PDF documents and interactively ask questions about their content. The system uses AI to extract information from the PDF and provide accurate, context-aware answers, making document analysis fast and user-friendly.',
+  technologies: ['React.Js', 'Gemini Api', 'BullMQ', 'Docker', 'Qdrant','Clerk'],
+  liveLink: 'https://github.com/Its-bhanu/RAG-BASED-QNA',
+  githubLink: 'https://github.com/Its-bhanu/RAG-BASED-QNA',
+  image: 'https://res.cloudinary.com/dhzscmpbt/image/upload/v1758867242/89ca3aa1-a4a5-42be-bf1c-60b756e5e89d-wm_wglapa.png',
+  featured: true
+},
+
+  {
     title: 'ChatMe A Real Time Chat App',
     description: 'A real-time chat application that allows users to communicate instantly. Includes features like user authentication, private messaging, and group chats.',
     technologies: ['React', 'Socket.io', 'Express.JS', 'Tailwind CSS','MongoDb'],
     liveLink: 'chat-me-rosy-eta.vercel.app/login',
     githubLink: 'https://github.com/Its-bhanu/ChatApp',
-    image: 'https://i.ytimg.com/vi/2I3aYt8gFdY/hqdefault.jpg',
+    image: 'https://res.cloudinary.com/dhzscmpbt/image/upload/v1758867623/ChatGPT_Image_Sep_26_2025_11_49_57_AM_g937zg.png',
     featured: false
   },
   {
@@ -39,15 +49,15 @@ const projects = [
     image: 'https://wiztoonz.com/wp-content/uploads/2022/04/Blog-Post-Portfolio-1170x658.jpg',
     featured: false
   },
-  {
-    title: 'A Small Blog Website',
-    description: 'A Small Blog website where user easily post their post and shared for all visiters',
-    technologies: ['React.js', 'Express.js', 'MongoDb', 'Cloudinary'],
-    liveLink: 'https://mittalassign1.vercel.app/',
-    githubLink: 'https://github.com/Its-bhanu/mittalassign1',
-    image: 'https://www.hexaphortechnologies.co.in/service_img/1687797021.png',
-    featured: false
-  },
+  // {
+  //   title: 'A Small Blog Website',
+  //   description: 'A Small Blog website where user easily post their post and shared for all visiters',
+  //   technologies: ['React.js', 'Express.js', 'MongoDb', 'Cloudinary'],
+  //   liveLink: 'https://mittalassign1.vercel.app/',
+  //   githubLink: 'https://github.com/Its-bhanu/mittalassign1',
+  //   image: 'https://www.hexaphortechnologies.co.in/service_img/1687797021.png',
+  //   featured: false
+  // },
   {
     title: 'Age Calculator',
     description: 'A simple age calculator that helps users determine their age based on date of birth.',
