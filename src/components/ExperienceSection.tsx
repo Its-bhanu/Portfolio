@@ -30,7 +30,7 @@ const experiences = [
   {
     title: 'Code Alpha Pvt Ltd',
     company: 'Full Stack Developer',
-    period: ' June 2025 - Present',
+    period: ' June 2025 - July 2025',
     location: 'Remote',
     description: 'Created responsive web interfaces and collaborated with designers to deliver pixel-perfect implementations for various client projects.',
     technologies: ['React', 'Express.Js', 'JavaScript', 'mongoDB', 'Tailwind CSS']
